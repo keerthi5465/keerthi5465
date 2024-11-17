@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my corner of the digital universe! I'm Keerthi</h1>
-<h3 align="center">Currently trying to handle prompt engineering</h3>
+<h3 align="center">Currently trying to handle ML</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthi5465&label=Profile%20views&color=0e75b6&style=flat" alt="keerthi5465" /> </p>
